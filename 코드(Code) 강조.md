@@ -18,6 +18,10 @@
 
 ```
 `를 3번 이상 입력하고 코드 종류도 적습니다.  
+
+\``` [language] [title] [url] [link text]  
+code snippet
+\```
 ```
 
 
