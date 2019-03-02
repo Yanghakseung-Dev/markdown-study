@@ -21,7 +21,7 @@
 
 ``` [language] [title] [url] [link text]  
 code snippet
-```
+\```
 ```
 
 
